@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cell | Phone</title>
+  <title>Joe | Electronic</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -118,7 +118,7 @@
     <!-- Brand Logo -->
     <a href="index3.html" class="brand-link">
       <img src="{{ asset ('assets/dist/img/download.png') }}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-      <span class="brand-text font-weight-light">CellPhone</span>
+      <span class="brand-text font-weight-light">JoeElectronic</span>
     </a>
     
    <!-- Sidebar -->
@@ -184,7 +184,7 @@
             <a href="{{ url('watches')}}" class="nav-link {{ Request()-> is('watches') ? 'active' : ''}}">
             <i class="nav-icon fa fa-clock"></i>
               <p>
-                All Brand
+                Watch
               </p>
             </a>
           </li>
